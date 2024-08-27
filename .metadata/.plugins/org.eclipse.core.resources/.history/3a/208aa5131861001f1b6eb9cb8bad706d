@@ -1,0 +1,10 @@
+package srinu;
+
+public class CountDistinct {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
